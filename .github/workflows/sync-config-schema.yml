@@ -80,8 +80,8 @@ jobs:
           set -euo pipefail
           tag="${{ steps.fetch.outputs.tag }}"
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Mahmoud Nasr"
+          git config user.email "239.nasr@gmail.com"
 
           git add content/generated/config-schema.json
           if ! git diff --cached --quiet; then

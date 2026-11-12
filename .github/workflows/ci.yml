@@ -155,8 +155,8 @@ jobs:
             mv CHANGELOG.md.tmp CHANGELOG.md
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Mahmoud Nasr"
+          git config user.email "239.nasr@gmail.com"
 
           git add package.json package-lock.json CHANGELOG.md
           if ! git diff --cached --quiet; then
