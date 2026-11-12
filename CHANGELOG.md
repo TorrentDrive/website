@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.4.3](https://github.com/TorrentDrive/website/releases/tag/v2.4.3) (2026-11-12)
+
+* docs: apply gitnasr visual identity, remove emoji (870e0d2)
+* docs(schema): sync configuration schema for backend v2.7.1 [skip ci] (e179ccf)
+* docs(schema): sync configuration schema for backend v2.7.0 [skip ci] (3228c7f)
+* docs(schema): sync configuration schema for backend v2.6.0 [skip ci] (a4b406d)
+* docs(schema): sync configuration schema for backend v2.5.0 [skip ci] (bcdfde1)
+* docs(schema): sync configuration schema for backend v2.4.2 [skip ci] (e8d52fa)
+* docs(schema): sync configuration schema for backend v2.4.1 [skip ci] (ea541ba)
+
+
 ## [2.4.2](https://github.com/TorrentDrive/website/releases/tag/v2.4.2) (2026-10-26)
 
 * refactor(ui): extract shared PillTabs and useCopyToClipboard hook (6683791)
