@@ -1,18 +1,9 @@
-# TorrentDrive Website
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/banner-dark.svg">
+  <img alt="website — torrentdrive by gitnasr" src=".github/banner-light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <strong>The Marketing Website, Fumadocs Documentation &amp; AI-SEO Knowledge Engine for TorrentDrive</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TorrentDrive/website/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
-  <a href="https://tc.gitnasr.com"><img src="https://img.shields.io/badge/Live-tc.gitnasr.com-00DC82?style=flat-square" alt="Live Site" /></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js 16" /></a>
-  <a href="https://fumadocs.dev"><img src="https://img.shields.io/badge/Fumadocs-MDX-8b5cf6?style=flat-square" alt="Fumadocs" /></a>
-  <a href="https://llmstxt.org/"><img src="https://img.shields.io/badge/LLM-llms.txt%20%2B%20Full-FF5722?style=flat-square" alt="llms.txt ready" /></a>
-</p>
-
----
+[Live site](https://tc.gitnasr.com) · [Documentation](https://tc.gitnasr.com/docs) · [MIT License](LICENSE)
 
 The marketing site and **canonical documentation portal** for [TorrentDrive](https://tc.gitnasr.com) — an open-source, self-hosted torrent-to-Google Drive and S3 cloud downloader.
 
@@ -20,7 +11,7 @@ Live at **[tc.gitnasr.com](https://tc.gitnasr.com)**.
 
 ---
 
-## 🌟 SEO & Agent-Readiness Features
+## SEO & Agent-Readiness Features
 
 - **100% Next.js App Router Metadata**: `metadataBase`, strict canonical URLs, OpenGraph dynamic images (`/api/og`), Twitter cards, and responsive Viewport exports.
 - **Rich JSON-LD Structured Data**: Interconnected `@graph` combining `SoftwareApplication`, `Organization`, `WebSite`, `HowTo`, `TechArticle`, `BreadcrumbList`, and `FAQPage`.
